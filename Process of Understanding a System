@@ -1,0 +1,14 @@
+What is anatomy ? Physical and logical architecture?
+How do the components within the architecture communicate?
+How does memory management work within the system?
+What is the expected output when communication is complete?
+What are the top components that rely greatly upon speed?
+What are the words to speak?
+How do I form a proper sentence using syntax?
+What are the best paths of communication from one component to another?
+What are the redundant backup routes for data in transit to continuously reach its destination?
+How is data in rest and data in transit protected and kept secure?
+Who can gain access to the system and how is the chain of custody maintained?
+How does the system deal with error handling and integer overflow?
+What is the control flow process between each process?
+How does the system handle different workloads? Maximum throughput and bandwidth of data flow?
